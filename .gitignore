@@ -1,3 +1,6 @@
+/__pycache__
 context.txt
 /dataset
 /outputs_3d_pipeline
+brats_pipeline.zip
+dataset.zip
